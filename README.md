@@ -1,1 +1,1 @@
-repository for Algorithm
+pository for Algorithm
